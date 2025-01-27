@@ -1,0 +1,5 @@
+/* bugSolution.css */
+#myElement {
+  color: blue; /* More specific selector to override previous styles */
+}
+/* Or, if you can modify the HTML to add an ID, you could use that for more specificity */
